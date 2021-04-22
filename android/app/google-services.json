@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116624241934",
+    "project_id": "ujikom-22c0a",
+    "storage_bucket": "ujikom-22c0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116624241934:android:f5367f9cb1575c8922935f",
+        "android_client_info": {
+          "package_name": "com.example.praktik_ukk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116624241934-j80u4rfk01r01cp4po2r478d612lt59l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDox8yWnQlQu4ME8yJ17CVaCZ9S1jNMtjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116624241934-j80u4rfk01r01cp4po2r478d612lt59l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
